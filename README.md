@@ -1,0 +1,2 @@
+# AutoWayshrineConfirm
+ESO AutoWayshrineConfirm addon
